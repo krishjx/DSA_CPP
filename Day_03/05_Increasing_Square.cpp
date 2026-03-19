@@ -11,7 +11,7 @@ s=c;                         //s store the inital value of column
              c=i*s;           //update the range of c for next line
         for(j;j<=c;j=j+1){
         cout<< j*j <<" ";
-        }
+        }bu b
         cout<<"\n";       
       }
     }
